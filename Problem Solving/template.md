@@ -8,7 +8,7 @@ tags: Algorithm_Types
 
 # 백준 Problem_Number Problem_Title
 
-[백준 Problem_Number - Problem_Title]([link])  
+[백준 Problem_Number - Problem_Title](link)  
   
 
 ### 풀이 과정  
