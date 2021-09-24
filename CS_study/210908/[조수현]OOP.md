@@ -1,11 +1,3 @@
----
-Presenter:  조수현  
-Date: 210908  
-categories: programming  
-tags: OOP  
----
-
-
 # OOP (Object-Oriented Programming 객체 지향 프로그래밍)  
   
 - 객체를 만들어내기 위해 설계 후 클래스의 타입으로 선언되었을 때 객체라고 부르고, 그 객체가 메모리에 할당되어 실제 사용될 때 인스턴스라고 부른다.  
