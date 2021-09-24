@@ -2,7 +2,7 @@
 - TCP와 UDP는 OSI 7계층 중 제 4 계층인 전송계층(Transport Layer)에 해당하고 보내고자 하는 데이터의 용량과, 속도, 목적지를 처리  
 
 ### TCP와 UDP의 차이점  
-  
+<img width="456" alt="Connection-oriented protocol Connection-less protocol" src="https://user-images.githubusercontent.com/45965405/134632181-79f56561-9b1d-4aa0-adfa-2e1229bc742e.png">  
 - 신뢰성의 문제  
 - 흐름 제어의 유무  
 - 속도의 차이  
