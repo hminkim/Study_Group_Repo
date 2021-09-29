@@ -124,15 +124,3 @@
 [위키피디아](https://ko.wikipedia.org/wiki/REST)  
 [Heee’s Development Blog](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)  
 [조대협의 블로그](https://bcho.tistory.com/953 )  
-
-
-
-
-
-
-
-
-
-
-
-
