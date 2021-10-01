@@ -1,6 +1,6 @@
 ---
 UpLoader: 정민서
-Date: 21.10.01
+Date: 21.10.02
 Rank: Silver.5
 Language: c
 tags: 
