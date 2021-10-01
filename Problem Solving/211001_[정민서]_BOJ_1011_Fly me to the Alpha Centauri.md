@@ -8,7 +8,7 @@ tags:
 
 # 백준 1011 Fly me to the Alpha Centauri
 
-[백준 4673 - Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)  
+[백준 1011 - Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)  
   
 
 ### 소스 코드
