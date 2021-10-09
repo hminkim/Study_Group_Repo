@@ -1,9 +1,10 @@
 ---
 UpLoader: 정민서
 Date: 21.10.02
-Rank: Silver.5
+Rank: Silver.1
 Language: c
-tags: 
+tags: 수학
+
 ---
 
 # 백준 1011 Fly me to the Alpha Centauri
