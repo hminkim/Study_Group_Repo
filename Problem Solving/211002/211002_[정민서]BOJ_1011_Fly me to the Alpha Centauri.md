@@ -1,7 +1,7 @@
 ---
 UpLoader: 정민서
 Date: 21.10.02
-Rank: Silver.1
+Rank: 
 Language: c
 tags: 수학
 
